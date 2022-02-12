@@ -91,3 +91,4 @@ while running:
     if clearCountDown > 0:
         clearCountDown -= 1
     clock.tick(fps)
+    # fun times
